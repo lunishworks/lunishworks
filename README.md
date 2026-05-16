@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="readme.jpg" />
+<img align="right" height="150" src="readme.jpg?v=2" />
 
 ###
 
